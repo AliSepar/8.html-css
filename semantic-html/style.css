@@ -16,6 +16,13 @@ q{
     background-color: rgb(196, 196, 196);
    
 }
+.farmer-article{
+    display: flex;
+    flex-direction: row;
+}
+.farmer-article img{
+width: 400px;
+}
 .villagers{
     border-left: 3px solid red;
 }
